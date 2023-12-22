@@ -1,0 +1,3 @@
+
+Appending new line.
+File I/O without buffers.
